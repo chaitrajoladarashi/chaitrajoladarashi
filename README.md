@@ -45,7 +45,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
 ---
-## 🚀 Featured Projects
+## 💻 Featured Projects
 
 | Project                               | Description                                                     | Tech                        |
 | ------------------------------------- | --------------------------------------------------------------- | --------------------------- |
@@ -55,7 +55,7 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p>
 <img src="https://streak-stats.demolab.com?user=chaitrajoladarashi&theme=dark&hide_border=true" alt="GitHub Streak"/>
@@ -63,7 +63,7 @@
 
 ---
 
-## Let's Connect
+## 📫 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/chaitra-joladarashi-39576130b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -73,7 +73,7 @@
 ---
 
 <p align="center">
- <i> <b>✨ Thanks for stopping by my profile! Happy coding 💻🚀</b></i>
+ <i> <b>Thanks for stopping by my profile! Happy coding.💫 </b></i>
 </p>
 
 <!-- Profile Header -->
