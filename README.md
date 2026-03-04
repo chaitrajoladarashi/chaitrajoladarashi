@@ -1,86 +1,80 @@
-<h1 align="center">Hi there 👋, I'm Chaitra Joladarashi</h1>
+## 👋 Hi, I'm Chaitra Joladarashi!
 
-<h3 align="center">Full Stack Developer | MERN Stack | AI & ML Enthusiast</h3>
+**Full Stack Developer | MERN Stack | AI & ML Enthusiast**
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-  </a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=chaitrajoladarashi&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+I am passionate about building scalable web applications and solving real-world problems.
+Currently exploring **Full Stack Development, Cloud technologies, and Artificial Intelligence** while continuously improving my coding and system design skills.
 
 ---
 
-## 💫 About Me
+## 🧩 Skills & Technologies
 
-🚀 Passionate about building scalable web applications and solving real-world problems<br>
-💻 Full Stack Developer exploring React, Node.js, and cloud technologies<br>
-🤖 Interested in Artificial Intelligence, Machine Learning, and data-driven applications<br>
-📚 Always learning — improving coding, system design, and development skills
+### 🔹 Languages
+
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+
+### 🔹 Backend & Frameworks
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express\&logoColor=white)
+
+### 🔹 Frontend
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black)
+
+### 🔹 Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
+
+### 🔹 AI / Data Science
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
+
+### 🔹 Tools & Platforms
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel\&logoColor=white)
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I'm Working On
 
-### 💻 Languages & Frameworks
-
-![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Node.js](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge\&logo=express\&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🤖 AI / ML & Data Science
-
-![Scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-orange?style=for-the-badge\&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/PANDAS-purple?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NUMPY-blue?style=for-the-badge\&logo=numpy)
-
-### 🗄 Databases
-
-![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge\&logo=mysql)
-
-### ⚙ Tools & Platforms
-
-![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge\&logo=github)
-![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge\&logo=vercel)
+* Building **Full Stack MERN applications**
+* Learning **AI / Machine Learning models**
+* Improving **DSA and System Design skills**
+* Deploying projects using **cloud technologies**
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=chaitrajoladarashi&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitrajoladarashi&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitrajoladarashi&layout=compact&theme=tokyonight"/>
+<p>
+<img src="https://streak-stats.demolab.com?user=chaitrajoladarashi&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 🤝 Connect With Me
 
-<p align="center">
+📧 Email: **[cjoladarashi@gmail.com](mailto:cjoladarashi@gmail.com)**
+🌐 LinkedIn: https://www.linkedin.com/in/chaitra-joladarashi-39576130b
 
-<a href="https://www.linkedin.com/in/chaitra-joladarashi-39576130b">
-<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<a href="mailto:cjoladarashi@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+## 👀 Visitor Count
 
-</p>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chaitrajoladarashi.chaitrajoladarashi)
+
+---
+
+⭐️ *Thanks for visiting my profile! Let's build something impactful together.*
