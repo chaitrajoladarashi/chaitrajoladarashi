@@ -1,62 +1,61 @@
-## 👋 Hi, I'm Chaitra Joladarashi!
+<h1 align="center">Hi👋, I'm Chaitra Joladarashi</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | AI & ML Enthusiast</h3>
 
-**Full Stack Developer | MERN Stack | AI & ML Enthusiast**
+<p align="center">
+  <img src="coding-girl.jpg" width="420" alt="Coding Illustration">
+</p>
 
-I am passionate about building scalable web applications and solving real-world problems.
-Currently exploring **Full Stack Development, Cloud technologies, and Artificial Intelligence** while continuously improving my coding and system design skills.
+---
+## 🚀 About Me
+💡 Passionate about building scalable web applications and solving real-world problems.  
+💻 Crafting modern web experiences using MERN stack.  
+🤖 Exploring Artificial Intelligence and Machine Learning with an interest in data-driven applications.  
+☁️ Deploying projects using cloud technologies and modern development tools.  
 
 ---
 
-## 🧩 Skills & Technologies
+## 🛠️ Tech Stack
 
-### 🔹 Languages
+### Languages & Frameworks
 
-![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7E01D.svg?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge\&logo=react\&logoColor=black)
 
-### 🔹 Backend & Frameworks
+### AI / ML & Data Science
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
 
-### 🔹 Frontend
+### Databases
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-### 🔹 Databases
+### Tools & Platforms
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge\&logo=docker\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
 
-### 🔹 AI / Data Science
+---
+## 🚀 Featured Projects
 
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)
-
-### 🔹 Tools & Platforms
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws\&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel\&logoColor=white)
+| Project                               | Description                                                     | Tech                        |
+| ------------------------------------- | --------------------------------------------------------------- | --------------------------- |
+| **Fresh Mart Website**                | Full-stack e-commerce platform connecting farmers and consumers | MERN Stack                  |
+| **Cardiovascular Disease Prediction** | ML-based website predicting heart disease risk                  | Python, Scikit-learn, Flask |
+| **HomelyHub**                         | Property rental platform built during internship                | MERN Stack                  |
 
 ---
 
-## 🚀 What I'm Working On
-
-* Building **Full Stack MERN applications**
-* Learning **AI / Machine Learning models**
-* Improving **DSA and System Design skills**
-* Deploying projects using **cloud technologies**
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p>
 <img src="https://streak-stats.demolab.com?user=chaitrajoladarashi&theme=dark&hide_border=true" alt="GitHub Streak"/>
@@ -64,17 +63,18 @@ Currently exploring **Full Stack Development, Cloud technologies, and Artificial
 
 ---
 
-## 🤝 Connect With Me
+## Let's Connect
 
-📧 Email: **[cjoladarashi@gmail.com](mailto:cjoladarashi@gmail.com)**
-🌐 LinkedIn: https://www.linkedin.com/in/chaitra-joladarashi-39576130b
-
----
-
-## 👀 Visitor Count
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=chaitrajoladarashi.chaitrajoladarashi)
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaitra-joladarashi-39576130b"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:cjoladarashi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ---
 
-⭐️ *Thanks for visiting my profile! Let's build something impactful together.*
+<p align="center">
+ <i> <b>✨ Thanks for stopping by my profile! Happy coding 💻🚀</b></i>
+</p>
+
+<!-- Profile Header -->
+
