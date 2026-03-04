@@ -1,18 +1,84 @@
-# 🚀 About Me:
-💡Passionate about building scalable web applications and solving real-world problems.<br>💻 Full Stack Developer exploring modern technologies like React, Node.js, and cloud tools.<br>⚡ Interested in AI, Machine Learning, and data-driven applications.<br>📚 Always learning — improving coding, system design, and development skills.
+<h1 align="center">Hi there 👋, I'm Chaitra Joladarashi</h1>
 
+<h3 align="center">Full Stack Developer | MERN Stack | AI & ML Enthusiast</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chaitra-joladarashi-39576130b?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3bxwm9ejf7tai1qfmnzxjj7w%3d%3d) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cjoladarashi@gmail.com) 
+<p align="center">
+<img src="assets/coding-girl.png" width="420"/>
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=chaitrajoladarashi&theme=prussian&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=chaitrajoladarashi&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitrajoladarashi&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=chaitrajoladarashi&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=chaitrajoladarashi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+🚀 Passionate about building scalable web applications and solving real-world problems<br>
+💻 Full Stack Developer exploring React, Node.js, and cloud technologies<br>
+🤖 Interested in Artificial Intelligence, Machine Learning, and data-driven applications<br>
+📚 Always learning — improving coding, system design, and development skills
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages & Frameworks
+
+![Java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-blue?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Node.js](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/EXPRESS.JS-black?style=for-the-badge\&logo=express\&logoColor=white)
+![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+
+### 🤖 AI / ML & Data Science
+
+![Scikit-learn](https://img.shields.io/badge/SCIKIT_LEARN-orange?style=for-the-badge\&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/PANDAS-purple?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NUMPY-blue?style=for-the-badge\&logo=numpy)
+
+### 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge\&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge\&logo=mysql)
+
+### ⚙ Tools & Platforms
+
+![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/DOCKER-blue?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazon-aws)
+![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge\&logo=vercel)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=chaitrajoladarashi&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitrajoladarashi&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitrajoladarashi&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 📬 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/chaitra-joladarashi-39576130b">
+<img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:cjoladarashi@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
