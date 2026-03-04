@@ -3,7 +3,9 @@
 <h3 align="center">Full Stack Developer | MERN Stack | AI & ML Enthusiast</h3>
 
 <p align="center">
-<img src="https://github.com/chaitrajoladarashi/chaitrajoladarashi/blob/main/coding-girl.jpg" width="420"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Passionate+Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  </a>
 </p>
 
 <p align="center">
