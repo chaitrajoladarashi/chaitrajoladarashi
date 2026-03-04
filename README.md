@@ -3,7 +3,7 @@
 <h3 align="center">Full Stack Developer | MERN Stack | AI & ML Enthusiast</h3>
 
 <p align="center">
-<img src="assets/coding-girl.png" width="420"/>
+<img src="https://github.com/chaitrajoladarashi/chaitrajoladarashi/blob/main/coding-girl.jpg" width="420"/>
 </p>
 
 <p align="center">
